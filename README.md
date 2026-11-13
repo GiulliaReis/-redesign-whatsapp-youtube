@@ -31,3 +31,15 @@ Projeto realizado durante a graduação em Sistemas de Informação, como ativid
 ---
 
 *Projeto acadêmico independente, sem vínculo oficial com WhatsApp, YouTube ou suas empresas responsáveis.*
+
+## 📸 Protótipos desenvolvidos
+
+### 💬 Redesign do WhatsApp
+
+![Protótipo WhatsApp](WhatsApp.png)
+
+![Protótipo WhatsApp](Plano2.png)
+
+### ▶️ Redesign do YouTube
+
+![Protótipo YouTube](Youtube.png)
